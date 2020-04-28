@@ -1,0 +1,9 @@
+.footer__main-title {
+	font-style: normal;
+	font-weight: 900;
+	font-size: 72px;
+	line-height: 78px;
+	text-align: center;
+	font-family: "Inter-Bold", sans-serif;
+	z-index: 10;
+}

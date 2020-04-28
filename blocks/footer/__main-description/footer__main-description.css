@@ -1,0 +1,10 @@
+.footer__main-description {
+	max-width: 382px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 26px;
+	text-align: center;
+	padding-bottom: 48px;
+	z-index: 10;
+}

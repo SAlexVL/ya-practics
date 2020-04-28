@@ -1,0 +1,10 @@
+.comments__title {
+	max-width: 800px;
+	margin: 102px auto 48px;
+	font-family: "Inter-Bold", sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 72px;
+	line-height: 108.9%;
+	text-align: center;
+}

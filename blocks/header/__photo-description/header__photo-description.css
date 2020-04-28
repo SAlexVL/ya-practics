@@ -1,0 +1,9 @@
+.header__photo-description {
+	font-size: 10px;
+	line-height: 12px;
+	letter-spacing: 0.15em;
+	text-transform: uppercase;
+	text-align: left;
+	margin-left: 78px;
+	margin-bottom: 0;
+}

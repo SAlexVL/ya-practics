@@ -1,0 +1,25 @@
+* {
+	box-sizing: border-box;
+}
+
+.page {
+	background: #2A2C2F;
+	font-family: "Inter", sans-serif;
+	color: white;
+}
+
+.content {
+	max-width: 1140px;
+	margin: 0 auto;
+}
+
+.link {
+	color: white;
+	text-decoration: none;
+}
+
+.list {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}

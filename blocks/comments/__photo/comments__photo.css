@@ -1,0 +1,8 @@
+.comments__photo {
+	width: 97px;
+	height: 97px;
+	border-radius: 50%;
+	border: 1px solid green;
+	overflow: hidden;
+	margin-bottom: 42px;
+}

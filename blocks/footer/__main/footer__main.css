@@ -1,0 +1,26 @@
+.footer__main {
+	background-image: url(../../../static/img/footer/cover.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	min-height: 594px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-end;
+	position: relative;
+	color: #FFFDFD;
+	margin-bottom: 160px;
+}
+
+.footer__main:after {
+	content: '';
+	display: block;
+	background: rgba(42, 44, 47, 0.3);
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 1;
+}
